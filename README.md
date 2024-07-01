@@ -30,6 +30,7 @@ I would like to thank OCTANET.pvt.lmt for their guidance and support throughout 
 
 License:
 
+https://github.com/vijaychandra1910/OCTANET_JULY-movie-landing-page/blob/main/LICENSE.md
 
 
 Contact:
