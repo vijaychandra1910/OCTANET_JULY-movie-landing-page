@@ -1,4 +1,7 @@
 # OCTANET_JULY-movie-landing-page
+
+![Screenshot 2024-07-03 015944](https://github.com/vijaychandra1910/OCTANET_JULY-movie-landing-page/assets/138502362/f2c2f804-cc69-4498-8035-2370e31db512)
+
 ![Screenshot 2024-07-03 020005](https://github.com/vijaychandra1910/OCTANET_JULY-movie-landing-page/assets/138502362/415ecd40-6de1-4ac7-80c4-0bc1609cf605)
 
 
